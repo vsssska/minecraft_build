@@ -1,10 +1,10 @@
-[00:56:38] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
-[00:56:38] [INIT] Loaded plugins:
-[00:56:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[00:56:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[00:56:38] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
-[00:56:38] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[00:56:38] [INIT] - dev.latvian.mods.kubejs.immersiveengineering.ImmersiveEngineeringKubeJSPlugin
-[00:56:39] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[00:56:39] [INFO] Loaded script startup_scripts:example.js in 0.118 s
-[00:56:39] [INFO] Loaded 1/1 KubeJS startup scripts in 0.937 s
+[18:09:22] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[18:09:22] [INIT] Loaded plugins:
+[18:09:22] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[18:09:22] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[18:09:22] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
+[18:09:22] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[18:09:22] [INIT] - dev.latvian.mods.kubejs.immersiveengineering.ImmersiveEngineeringKubeJSPlugin
+[18:09:22] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[18:09:22] [INFO] Loaded script startup_scripts:example.js in 0.118 s
+[18:09:22] [INFO] Loaded 1/1 KubeJS startup scripts in 0.709 s

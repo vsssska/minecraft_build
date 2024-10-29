@@ -1,0 +1,10 @@
+saves/
+resourcepacks/
+shaderpacks/
+.curseclient
+usercache.json
+usernamecache.json
+options.txt
+minecraftinstance.json
+.idea
+logs/
