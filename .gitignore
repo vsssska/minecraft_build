@@ -8,3 +8,5 @@ options.txt
 minecraftinstance.json
 .idea
 logs/
+local/
+.vscode/
