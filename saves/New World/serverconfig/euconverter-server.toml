@@ -1,0 +1,6 @@
+
+[General]
+	#Conversion rate for FE to EU. Default 4
+	#Range: > 1
+	conversionRate = 4
+

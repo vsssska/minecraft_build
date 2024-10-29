@@ -1,0 +1,10 @@
+[00:56:39] [INIT] KubeJS 1902.6.2-build.73; MC 1902 forge
+[00:56:39] [INIT] Loaded plugins:
+[00:56:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:56:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[00:56:39] [INIT] - com.negodya1.kubejs.vintageimprovements.KubeJSVintagePlugin
+[00:56:39] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[00:56:39] [INIT] - dev.latvian.mods.kubejs.immersiveengineering.ImmersiveEngineeringKubeJSPlugin
+[00:56:39] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[00:56:39] [INFO] Loaded script client_scripts:example.js in 0.001 s
+[00:56:39] [INFO] Loaded 1/1 KubeJS client scripts in 0.021 s
